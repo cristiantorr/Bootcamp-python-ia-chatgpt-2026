@@ -1,0 +1,5 @@
+# activar siempre el entorno venv
+
+- EJECUTAR : .\.venv\Scripts\Activate.ps1
+- INSTALAR LIBRERÍA : pip install requests
+- ejecutar python app.py
